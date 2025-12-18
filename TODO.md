@@ -1,0 +1,3 @@
+- [x] Create lesson1.json with sample Arabic alphabet lesson, Urdu explanations, Quranic examples, and MCQ quiz.
+- [x] Create lesson2.json with sample vowels (Harakat) lesson, Urdu explanations, examples, and MCQ quiz.
+- [x] Create index.php with session handling, JSON loading, lesson/quiz/result views, scoring, Urdu roasting/praise, responsive CSS, and navigation logic.
